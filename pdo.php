@@ -158,6 +158,6 @@ class Userpdo
     public function getLastname()
     {
         $userLastname = $this->lastname;
-        return ($userLastname;
+        return $userLastname;
     }
 }
